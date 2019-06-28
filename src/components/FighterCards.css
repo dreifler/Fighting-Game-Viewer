@@ -1,0 +1,17 @@
+#progress1 {
+    width: 100%;
+}
+
+#progress2 {
+    width: 100%;
+}
+
+.card {
+    width: 25%;
+    min-height: 300px;
+}
+
+.card-title {
+    text-align: center;
+    margin-top: 10px;
+}
